@@ -33,6 +33,7 @@ Select item and select "Unequip" to remove item from your avatar.
 Drop Item
 Select item and select "Drop" to remove item from your inventory.
 
+![drop1 (Custom)](https://github.com/user-attachments/assets/587a71ec-3b41-40b0-9da8-099935102ce4)
 
 
 Enjoy!!
